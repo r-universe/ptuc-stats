@@ -5,3 +5,6 @@
 [submodule "shinyCLT"]
 	path = shinyCLT
 	url = https://github.com/cran/shinyCLT
+[submodule "survivalMPL"]
+	path = survivalMPL
+	url = https://github.com/cran/survivalMPL
