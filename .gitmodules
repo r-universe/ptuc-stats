@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "setwidth"]
+	path = setwidth
+	url = https://github.com/cran/setwidth
 [submodule "shinyCLT"]
 	path = shinyCLT
 	url = https://github.com/cran/shinyCLT
